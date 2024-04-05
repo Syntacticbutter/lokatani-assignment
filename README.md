@@ -1,21 +1,21 @@
 ## Install Guide
-1. Download and install [Visual Studio Code](https://code.visualstudio.com/) 
-- when prompted, TICK THE BOX TO ADD "Open with Code" shortcut in right-click menu
-2. Download and install [Composer](https://getcomposer.org/)
-3. Download and install [Git](https://git-scm.com/)
-4. Download and install [PostgreSQL](https://www.postgresql.org/)
-- when prompted to create a master password, type "masterpass"
-5. Open pgAdmin 4
-6. Enter the master password from Step 3
-7. Right click on "Databases", then select "Create", followed by "Database..."
-8. Type "lokatani" as the database name (as seen on the .env file - line 25), then click Save
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/).
+- When prompted, TICK THE BOX TO ADD "Open with Code" shortcut in right-click menu
+2. Download and install [Composer](https://getcomposer.org/).
+3. Download and install [Git](https://git-scm.com/).
+4. Download and install [PostgreSQL](https://www.postgresql.org/).
+- When prompted to create a master password, type "masterpass"
+5. Open pgAdmin 4.
+6. Enter the master password from Step 3.
+7. Right click on "Databases", then select "Create", followed by "Database...".
+8. Type "lokatani" as the database name (as seen on the .env file - line 25), then click Save.
 - .env
-9. Open Visual Studio Code and open the terminal
-10. Enter these commands in the following order, line by line
+9. Open Visual Studio Code and open the terminal.
+10. Enter these commands in the following order, line by line.
 - composer install
 - php artisan migrate
 - php artisan serve
-11. Hold Ctrl and left click http://127.0.0.1:8000 to launch the website from the terminal
+11. Hold Ctrl and left click http://127.0.0.1:8000 to launch the website from the terminal.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
