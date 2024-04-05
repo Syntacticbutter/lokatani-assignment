@@ -1,9 +1,9 @@
 ## Install Guide
-1. Download and install Visual Studio Code https://code.visualstudio.com/ 
-- prompted, TICK THE BOX TO ADD "Open with Code" shortcut in right-click menu
-2. Download and install Composer https://getcomposer.org/
-3. Download and install Git https://git-scm.com/
-4. Download and install PostgreSQL https://www.postgresql.org/
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/) 
+- when prompted, TICK THE BOX TO ADD "Open with Code" shortcut in right-click menu
+2. Download and install [Composer](https://getcomposer.org/)
+3. Download and install [Git](https://git-scm.com/)
+4. Download and install [PostgreSQL](https://www.postgresql.org/)
 - when prompted to create a master password, type "masterpass"
 5. Open pgAdmin 4
 6. Enter the master password from Step 3
