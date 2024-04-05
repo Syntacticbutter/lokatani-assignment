@@ -11,10 +11,12 @@
 8. Type "lokatani" as the database name (as seen on the .env file - line 25), then click Save.
 - .env
 9. Open Visual Studio Code and open the terminal.
+### Migration
 10. Enter these commands in the following order, line by line.
 - composer install
 - php artisan migrate
 - php artisan serve
+### Launch
 11. Hold Ctrl and left click http://127.0.0.1:8000 to launch the website from the terminal.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
