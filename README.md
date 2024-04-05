@@ -1,4 +1,4 @@
-## Install Guide
+## Setup Guide
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/).
 - When prompted, TICK THE BOX TO ADD "Open with Code" shortcut in right-click menu
 2. Download and install [Composer](https://getcomposer.org/).
